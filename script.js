@@ -98,8 +98,8 @@ const typingElement =
     document.getElementById("typingText");
 
 const typingWords = [
-    "Continuous learner",
-    "Tech Enthusiast ",
+    "Continuous Learner",
+    "& Tech Enthusiast",
 ];
 
 let wordIndex = 0;
