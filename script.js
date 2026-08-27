@@ -1,5 +1,5 @@
 /* =========================================================
-   ANSHUMAN AGRAWAL PORTFOLIO
+GAURI BHOYAR PORTFOLIO
    Vanilla JavaScript
    ========================================================= */
 
@@ -98,10 +98,8 @@ const typingElement =
     document.getElementById("typingText");
 
 const typingWords = [
-    "Full Stack Developer",
-    "Web Developer",
-    "AI Enthusiast",
-    "Problem Solver"
+    "I am continuous learner",
+    "Tech Enthusiast ",
 ];
 
 let wordIndex = 0;
@@ -356,7 +354,7 @@ contactForm.addEventListener(
 
 
         const recipient =
-            "anshumanagrawal89@gmail.com";
+            "gauribhoyar40gmail.com";
 
         const mailSubject =
             encodeURIComponent(
