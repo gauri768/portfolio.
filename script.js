@@ -98,7 +98,7 @@ const typingElement =
     document.getElementById("typingText");
 
 const typingWords = [
-    "I am continuous learner",
+    "Continuous learner",
     "Tech Enthusiast ",
 ];
 
